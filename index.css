@@ -24,7 +24,7 @@ h1, h2, h3, .price {
 
 /*HEADER*/
 
-header {
+header, footer {
   padding: 32px 0;
   text-align: center;
 }
